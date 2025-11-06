@@ -30,7 +30,7 @@ Aquí comenzaré a listar todas las guías de estudio y write-ups, empezando por
 Si estas enpezando de 0 en la ciberseguridad como yo, te recomiendo comenzar con esta, es gratuita y reconocida en la industria!
 
 * [Dominio 1: Principios de Seguridad](./ISC2-CC/CC-Dominio1.md)
-* [Dominio 2: Continuidad del Negocio (BC) y Respuesta a Incidentes]
+* [Dominio 2: Continuidad del Negocio (BC) y Respuesta a Incidentes](./ISC2-CC/CC-Dominio2.md)
 * [Dominio 3: Conceptos de Redes y Seguridad]
 * [Dominio 4: Seguridad de Red, Aplicaciones y Operaciones]
 * [Dominio 5: Gobernanza y Gestión de Riesgos]
