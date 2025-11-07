@@ -1,6 +1,6 @@
-# 🛡️ CyberSec-Cert-Mastery: El Camino Estructurado a la Ciberseguridad | @matoriusbig
+# 🛡️ CyberSec-Cert-Mastery: El Camino Estructurado a la Ciberseguridad **Blue Team** | @matoriusbig
 
-> **Colección de Guías Curadas, Write-ups y Análisis Tácticos.** Este repositorio documenta mi enfoque estratégico para dominar las certificaciones líderes de la industria (CompTIA, ISC2, OSCP) y los laboratorios avanzados (HTB).
+> **Colección de Guías Curadas, Write-ups y Análisis Tácticos.** Este repositorio documenta mi enfoque estratégico para dominar las certificaciones líderes de la industria (CompTIA, ISC2,) y los laboratorios avanzados (HTB).
 
 [![GitHub stars](https://img.shields.io/github/stars/TU_USUARIO/NOMBRE_REPOSITORIO.svg?style=social&label=Star)](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/TU_USUARIO/NOMBRE_REPOSITORIO.svg)](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO/commits/main)
@@ -8,39 +8,34 @@
 
 ---
 
-## 🚀 **¿Cómo Comenzar en Ciberseguridad o Hacking?**
+# 🚀 **¿Cómo Comenzar en Ciberseguridad o Hacking?**
 
 **Hace tiempo me hice la pregunta de: ¿Cómo comenzar en ciberseguridad o el mundo del hacking? ¡Aquí te muestro cómo!**
 
 Al igual que tú, enfrenté la frustración de la información fragmentada en foros y el **alto costo de la educación de calidad**. Mi solución fue crear una **ruta clara y accesible**. Este repositorio es mi compromiso para eliminar esas barreras.
 
 ### 🎯 **Propósito: SER EL PATH DEFINITIVO!**
-
 Este proyecto es una guía de como comencé mi viaje en la ciber. Aquí guardo mis:
 
-* **Guías Tácticas de Certificación:** Material clave curado de fuentes premium.
+* **Guías Tácticas de Certificación:** Material clave sacado de fuentes premium y sentetizado.
 * **Análisis Post-Examen 📝:** *Insights* de primera mano sobre lo que realmente importa en la prueba.
 * **Laboratorios Aplicados:** *Write-ups* y código de automatización para skills prácticos.
 
----
-
-## 👋 **Perfil del Propietario**
-
-Soy **@matoriusbig**, estudiante de **Ingeniería Informática** con una profunda pasión por la seguridad de la información, la respuesta a incidentes y el análisis de amenazas 👨‍💻.
-
 ### 🧠 **Metodología: Sintetizado por IA, Validado por Experiencia**
-
-El valor diferencial de este repositorio radica en el proceso de curación:
-
 | FASE | OBJETIVO | VALOR AÑADIDO |
 | :--- | :--- | :--- |
 | **1. Síntesis (IA)** 🤖 | Cobertura y Estructura. | Generación rápida de contenido técnico y estructurado. |
 | **2. Validación (Humana)** ✅ | Precisión y Claridad. | Revisión y corrección por experto en dominio. |
 | **3. Enriquecimiento (Táctico)** 💡 | Aplicación y Dominio. | Inclusión de **Ejemplos Prácticos**, y **Análisis del Por Qué**, que va más allá de la memorización. |
 
+
 ---
 
-## 🏆 **Mis Habilidades y Trayectoria (Quick View)**
+### 👋 **Hola!**
+
+Soy **@matoriusbig**, estudiante de **Ingeniería Informática** con una profunda pasión por la seguridad de la información, la respuesta a incidentes y el análisis de amenazas 👨‍💻.
+
+### 🏆 **Mis Habilidades y Trayectoria (Quick View)**
 
 ### Próximamente... 🔜
 
@@ -48,10 +43,10 @@ El valor diferencial de este repositorio radica en el proceso de curación:
 
 | Certificación | Nivel | Estado | Carpeta |
 | :---: | :---: | :---: | :---: |
-| ![ISC2 CC](https://img.shields.io/badge/ISC2-CC-247BA0?style=flat&logo=isc2) | Foundation | 🔄 En Progreso | [`./ISC2_CC/`](./ISC2_CC/) |
-| ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF6633?style=flat&logo=comptia) | Foundation | ⏳ Próximo Foco | [`./CompTIA_NetworkPlus/`](./CompTIA_NetworkPlus/) |
-| ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-582E88?style=flat&logo=comptia) | Intermedio | 🎯 Meta a Largo Plazo | [`./CompTIA_SecurityPlus/`](./CompTIA_SecurityPlus/) |
-| **OSCP (Offensive Security)** | Advanced | 🎯 Meta a Largo Plazo | [`./OffSec/`](./OffSec/) |
+| ![ISC2 CC](https://img.shields.io/badge/ISC2-CC-247BA0?style=flat&logo=isc2) | Fundamentals | 🔄 En Progreso | [`./ISC2_CC/`](./ISC2_CC/) |
+| ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF6633?style=flat&logo=comptia) | Fundamentals | ⏳ Próximo Foco | [`Próximamente... 🔜`] |
+| ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-582E88?style=flat&logo=comptia) | Intermediate | 🎯 Meta a Largo Plazo |[`Próximamente... 🔜`]  |
+| ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-008080?style=flat&logo=comptia) | Intermediate | 🎯 Meta a Largo Plazo | [`Próximamente... 🔜`] |
 
 ### 💻 Tooling & Habilidades Técnicas
 
@@ -68,8 +63,6 @@ El valor diferencial de este repositorio radica en el proceso de curación:
 ---
 
 ## 📚 Índice de Certificaciones y Guías
-
-Aquí comenzaré a listar todas las guías de estudio y write-ups. Si estas comenzando te recomiendo encarecidamente comenzar por:
 
 ### 1️⃣ (ISC)² Certified in Cybersecurity (CC)
 
