@@ -87,7 +87,7 @@ La certificación **fundamental** para construir tu base. Cubre los 5 dominios c
   * [5.3 - Principios Fundamentales de Criptografía](./ISC2-CC/Dominio-5/Principios-Criptografia.md)
   * [5.4 - Gestión de Configuración y Endurecimiento](./ISC2-CC/Dominio-5/Gestion-Configuracion-Hardening.md)
   * [5.5 - Gobernanza y Políticas Clave](./ISC2-CC/Dominio-5/Gobernanza-y-Politicas.md)
-  * [5.6 - Concienciación en Seguridad (El Firewall Humano)](./ISC2-CC/Dominio-5/-Concienciacion-Firewall-Humano.md)
+  * [5.6 - Concienciación en Seguridad (El Firewall Humano)](./ISC2-CC/Dominio-5/Concienciacion-Firewall-Humano.md)
 </details>
 <br>
 
