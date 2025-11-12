@@ -22,7 +22,7 @@ Aquí no hay relleno. No hay ventas. Solo conocimiento puro, estructurado de la 
 ### ¿Por qué esta biblioteca es diferente?
 
 * 🧠 **Organización Atómica:** Di adiós a los PDFs de 500 páginas. ¿Necesitas repasar "Modelos de Control de Acceso"? Tienes un archivo específico para eso. Es rápido, eficiente y diseñado para la retención.
-* 💼 **Curado para el Trabajo:** No es solo teoría académica. Es un *path* profesional. Las guías están llenas de ejemplos prácticos, tablas comparativas y *write-ups* que explican el **"por qué"** detrás de cada concepto.
+* 💼 **Diseñado para el Estudiar:** No es solo teoría académica. Es un *path* profesional. Las guías están llenas de ejemplos prácticos, tablas comparativas y *write-ups* que explican el **"por qué"** detrás de cada concepto.
 * 🗺️ **Una Ruta Clara:** El contenido te lleva de la mano desde lo más básico ("¿Qué es una IP?") hasta conceptos avanzados que usan los CISO ("Arquitectura de Confianza Cero").
 
 Este es mi portafolio viviente y mi "cerebro externo". Si te tomas en serio esta carrera, usa este repositorio como tu base de operaciones.
