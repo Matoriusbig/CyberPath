@@ -104,48 +104,48 @@ La certificación **fundamental** para construir tu base. Cubre los 5 dominios c
 <details>
 <summary><strong>🏛️ Dominio 1: Principios de Seguridad (26%)</strong></summary>
   
-  * [1.1 - Conceptos de Seguridad (Tríada CIA)](./ISC2-CC/Dominio-1/Conceptos-Seguridad.md) 
-  * [1.2 - Gestión de Riesgos](./ISC2-CC/Dominio-1/Gestión-Riesgos.md)
-  * [1.3 - Tipos de Controles de Seguridad](./ISC2-CC/Dominio-1/Control-Seguridad.md)
-  * [1.4 - Gobernanza de Seguridad](./ISC2-CC/Dominio-1/Gobernanza-Seguridad.md)
-  * [1.5 - Código de Ética de (ISC)²](./ISC2-CC/Dominio-1/Código-Ética.md)
+  * [1.1 - Conceptos de Seguridad (Tríada CIA)](./01-Guias-Certificacion/ISC2-CC/Dominio-1/Conceptos-Seguridad.md) 
+  * [1.2 - Gestión de Riesgos](./01-Guias-Certificacion/ISC2-CC/Dominio-1/Gestión-Riesgos.md)
+  * [1.3 - Tipos de Controles de Seguridad](./01-Guias-Certificacion/ISC2-CC/Dominio-1/Control-Seguridad.md)
+  * [1.4 - Gobernanza de Seguridad](./01-Guias-Certificacion/ISC2-CC/Dominio-1/Gobernanza-Seguridad.md)
+  * [1.5 - Código de Ética de (ISC)²](./01-Guias-Certificacion/ISC2-CC/Dominio-1/Código-Ética.md)
 </details>
 
 <details>
 <summary><strong>🚨 Dominio 2: Continuidad del Negocio (BC), DR y Respuesta a Incidentes (10%)</strong></summary>
   
-  * [2.1 - Continuidad del Negocio (BCP & BIA)](./ISC2-CC/Dominio-2/Continuidad-Negocio.md)
-  * [2.2 - Recuperación ante Desastres (DRP & RTO/RPO)](./ISC2-CC/Dominio-2/Recuperación-Desastres.md)
-  * [2.3 - Respuesta a Incidentes (IRP & NIST)](./ISC2-CC/Dominio-2/Respuesta-Incidentes.md)
+  * [2.1 - Continuidad del Negocio (BCP & BIA)](./01-Guias-Certificacion/ISC2-CC/Dominio-2/Continuidad-Negocio.md)
+  * [2.2 - Recuperación ante Desastres (DRP & RTO/RPO)](./01-Guias-Certificacion/ISC2-CC/Dominio-2/Recuperación-Desastres.md)
+  * [2.3 - Respuesta a Incidentes (IRP & NIST)](./01-Guias-Certificacion/ISC2-CC/Dominio-2/Respuesta-Incidentes.md)
 </details>
 
 <details>
 <summary><strong>👤 Dominio 3: Conceptos de Control de Acceso (22%)</strong></summary>
   
-  * [3.1 - Conceptos Fundamentales (Sujetos, Objetos, AAA)](./ISC2-CC/Dominio-3/Conceptos-Fundamentales.md)
-  * [3.2 - Controles de Acceso Físico](./ISC2-CC/Dominio-3/Controles-Acceso-Físico.md)
-  * [3.3 - Controles de Acceso Lógico (Modelos DAC, MAC, RBAC)](./ISC2-CC/Dominio-3/Controles-Acceso-Logico.md)
-  * [3.4 - Gestión de Identidad (PAM, Ciclo de Vida)](./ISC2-CC/Dominio-3/Gestion-de-Identidad.md)
+  * [3.1 - Conceptos Fundamentales (Sujetos, Objetos, AAA)](./01-Guias-Certificacion/ISC2-CC/Dominio-3/Conceptos-Fundamentales.md)
+  * [3.2 - Controles de Acceso Físico](./01-Guias-Certificacion/ISC2-CC/Dominio-3/Controles-Acceso-Físico.md)
+  * [3.3 - Controles de Acceso Lógico (Modelos DAC, MAC, RBAC)](./01-Guias-Certificacion/ISC2-CC/Dominio-3/Controles-Acceso-Logico.md)
+  * [3.4 - Gestión de Identidad (PAM, Ciclo de Vida)](./01-Guias-Certificacion/ISC2-CC/Dominio-3/Gestion-de-Identidad.md)
 </details>
 
 <details>
 <summary><strong>🌐 Dominio 4: Seguridad de Red (24%)</strong></summary>
   
-  * [4.1 - Modelo OSI y TCP/IP](./ISC2-CC/Dominio-4/Modelo-OSI-y-TCP-IP.md)
-  * [4.2 - Amenazas y Ataques de Red](./ISC2-CC/Dominio-4/Amenazas-y-Ataques-de-Red.md)
-  * [4.3 - Infraestructura y Arquitectura Segura](./ISC2-CC/Dominio-4/Infraestructura-Red-Segura.md)
-  * [4.4 - Seguridad en Redes Inalámbricas](./ISC2-CC/Dominio-4/Seguridad-Redes-Inalambricas.md)
+  * [4.1 - Modelo OSI y TCP/IP](./01-Guias-Certificacion/ISC2-CC/Dominio-4/Modelo-OSI-y-TCP-IP.md)
+  * [4.2 - Amenazas y Ataques de Red](./01-Guias-Certificacion/ISC2-CC/Dominio-4/Amenazas-y-Ataques-de-Red.md)
+  * [4.3 - Infraestructura y Arquitectura Segura](./01-Guias-Certificacion/ISC2-CC/Dominio-4/Infraestructura-Red-Segura.md)
+  * [4.4 - Seguridad en Redes Inalámbricas](./01-Guias-Certificacion/ISC2-CC/Dominio-4/Seguridad-Redes-Inalambricas.md)
 </details>
 
 <details>
 <summary><strong>🛡️ Dominio 5: Operaciones de Seguridad (18%)</strong></summary>
   
-  * [5.1 - Manejo y Ciclo de Vida de los Datos](./ISC2-CC/Dominio-5/Manejo-Ciclo-Vida-Datos.md)
-  * [5.2 - Registro y Monitoreo de Eventos (Logging)](./ISC2-CC/Dominio-5/Registro-y-Monitoreo.md)
-  * [5.3 - Principios Fundamentales de Criptografía](./ISC2-CC/Dominio-5/Principios-Criptografia.md)
-  * [5.4 - Gestión de Configuración y Endurecimiento](./ISC2-CC/Dominio-5/Gestion-Configuracion-Hardening.md)
-  * [5.5 - Gobernanza y Políticas Clave](./ISC2-CC/Dominio-5/Gobernanza-y-Politicas.md)
-  * [5.6 - Concienciación en Seguridad (El Firewall Humano)](./ISC2-CC/Dominio-5/Concienciacion-Firewall-Humano.md)
+  * [5.1 - Manejo y Ciclo de Vida de los Datos](./01-Guias-Certificacion/ISC2-CC/Dominio-5/Manejo-Ciclo-Vida-Datos.md)
+  * [5.2 - Registro y Monitoreo de Eventos (Logging)](./01-Guias-Certificacion/ISC2-CC/Dominio-5/Registro-y-Monitoreo.md)
+  * [5.3 - Principios Fundamentales de Criptografía](./01-Guias-Certificacion/ISC2-CC/Dominio-5/Principios-Criptografia.md)
+  * [5.4 - Gestión de Configuración y Endurecimiento](./01-Guias-Certificacion/ISC2-CC/Dominio-5/Gestion-Configuracion-Hardening.md)
+  * [5.5 - Gobernanza y Políticas Clave](./01-Guias-Certificacion/ISC2-CC/Dominio-5/Gobernanza-y-Politicas.md)
+  * [5.6 - Concienciación en Seguridad (El Firewall Humano)](./01-Guias-Certificacion/ISC2-CC/Dominio-5/Concienciacion-Firewall-Humano.md)
 </details>
 <br>
 
