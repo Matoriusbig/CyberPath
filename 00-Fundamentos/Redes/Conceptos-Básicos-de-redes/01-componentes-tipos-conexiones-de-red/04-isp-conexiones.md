@@ -37,6 +37,7 @@
     * Un **AP Inalámbrico (WAP):** Para conectar dispositivos por Wi-Fi.
     * Un **Firewall Básico:** Proporciona seguridad esencial para tus dispositivos.
 <img width="803" height="456" alt="image" src="https://github.com/user-attachments/assets/84ba0156-2d82-4f95-b8f6-4665186a03af" />
+
 ---
 
 ### 3. Comparativa: Tecnologías de Conexión al ISP 📡
